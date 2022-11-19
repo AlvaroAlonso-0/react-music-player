@@ -51,7 +51,7 @@
     font-weight: 600;
     color: #c3d0e3;
     cursor: pointer;
-    transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease;
 }
 
 .queue-item:hover{
